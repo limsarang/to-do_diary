@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.split" />
+          <option value="tictactoe.Tictactoe_GUI.TictactoeGUI.coordinate_to_position" />
+          <option value="playground.views.say_Hello" />
+          <option value="playground.views.say_hello" />
+          <option value="playground.views.say_hello_html" />
+          <option value="playground.views.만지로" />
+          <option value="playground.views.산즈" />
+          <option value="playground.views.say_bye" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
